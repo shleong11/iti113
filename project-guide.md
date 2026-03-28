@@ -20,7 +20,7 @@ You are expected to form a project team of up to 3 members.
 
 - Each member should focus on one area and be able to complete the associated tasks independently. Marks will be deducted for individuals who rely
 heavily on others to complete their tasks.
-- Each team can have a mix of members on both model development and model deployment & operations, or with the entire team focusing on model development only
+- Each team can have a mix of members on both model development and model deployment & operations, or with the entire team focusing on model development only (projects with 1 member only must focus on model development)
 - The role of the project mentor is to provide guidance on your project proposal and to make sure you are on the right track in your project.
 
 Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n_YYT-DeoNPcEv0u6HoiTz-bfNkQJJaIFh70sArY3prQ/viewform?usp=preview) of your project team members.
