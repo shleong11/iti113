@@ -55,13 +55,6 @@ Performance Expectation:
 
 This project consists of the following assessment components:
 
-| Assessment components | Group | Full/Primary | Total |
-| --------------------- | ----- | ---------- | ----- |
-| Project Proposal      | 20%   |            | 20%   |
-| Progress Check        | 5%   | 20%        | 25%   |
-| Final Report          | 10%   | 20%        | 30%   |
-| Final Presentation    | 5%   | 20%        | 25%   |
-
 | Assessment Component | Focus (A–D + Governance) | Overall (%) | Individual (%) | Total (%) |
 |---------------------|--------------------------|-----------|----------------|-----------|
 | **Project Proposal** | A (Problem & Data), D (Justification), Governance (Risk) | 20% | – | 20% |
