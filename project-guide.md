@@ -61,10 +61,10 @@ This project consists of the following assessment components:
 
 **Assessment Schedule:**
 
-- Project Proposal - submitted by 28 Jul 23:59
-- Progress Check - 18 Aug (Online) 
-- Final Report - submitted by 28 Aug 23:59
-- Final Presentation - 27 Aug (Online assessment)
+- Project Proposal + Checklist - submitted by Sun 26 Jul 2026 23:59
+- Project Milestone Progress Check - Submitted by Sun 16 Aug 2026 23:59  
+- Final Report - submitted by Sun 30 Aug 2026 23:59
+- Final Presentation - Wed 26 Aug 2026 (Online assessment)
 
 ***refer to POLITEMALL for most updated schedule***
 
@@ -74,7 +74,7 @@ This project consists of the following assessment components:
 - In the project proposal, your team will pick a business problem of your choice (or from the suggested list of projects) and formulate it as a machine learning problem.
 - You are to perform risk assessment of the AI system you are developing. 
 - Once you have identified the problem, it can be useful to research on some prior work or research on the related topics. 
-- Another important aspect of your project is to identify one or several datasets suitable for your chosen problem. You can either use existing dataset or collect the data yourself. (bear in mind the timeframe given that data collection effort may be significant that will impact your project completion schedule)
+- Another important aspect of your project is to identify one or several datasets suitable for your chosen problem. You can either use existing dataset (recommended) or collect the data yourself. (bear in mind the timeframe given that data collection effort may be significant that will impact your project completion schedule)
 
 ### Format
 
