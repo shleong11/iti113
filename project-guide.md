@@ -23,7 +23,7 @@ heavily on others to complete their tasks.
 - Each team can have a mix of members on both model development and model deployment & operations, or with the entire team focusing on model development only
 - The role of the project mentor is to provide guidance on your project proposal and to make sure you are on the right track in your project.
 
-Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSdlSpoKG7daouFBJyTZFH90-IgLuqVni4VcPMddrnkDZb0PQw/viewform?usp=sharing&ouid=104511639249216066150) of your project team members.
+Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n_YYT-DeoNPcEv0u6HoiTz-bfNkQJJaIFh70sArY3prQ/viewform?usp=preview) of your project team members.
 
 ## Overview of Focus Areas 
 
