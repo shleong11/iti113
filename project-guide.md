@@ -55,7 +55,7 @@ Performance Expectation:
 
 This project consists of the following assessment components:
 
-| Assessment components | Support | Full/Primary | Total |
+| Assessment components | Group | Full/Primary | Total |
 | --------------------- | ----- | ---------- | ----- |
 | Project Proposal      | 20%   |            | 20%   |
 | Progress Check        | 5%   | 20%        | 25%   |
