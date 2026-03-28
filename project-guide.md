@@ -34,14 +34,14 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 | Final Report | Fine-tuned models with error analysis and interpretation of results | Model deployed on MLOps platform, completed checklist for AI governance, demo app deployed |  
 | Final Presentation | Highlight key individual contributions and demonstrate generated artifacts with of methodologies, results, and related development work | same as Model Development |
 
-| Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) |
-|----------|-------------|------------------------|----------------|---------------|-----------|---------------------|
-| **1** | Full Stack ML | A + B + C + D | ✅ Full | ✅ Full | ✅ Full | ✅ Full |
-| **2** | Student 1 | Model Development (B) | ◑ Support | ✅ Full | ◑ Partial | ✅ Full |
-|  | Student 2 | MLOps & Deployment (C) | ✅ Full | ◑ Partial | ✅ Full | ◑ Support |
-| **3** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full |
-|  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full |
-|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ✅ Full |
+| Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance |
+|----------|-------------|------------------------|----------------|---------------|-----------|---------------------|---------------|
+| **1 Student** | Full Stack ML | A + B + C + D | ✅ Full | ✅ Full | ✅ Full | ✅ Full | ✅ Full |
+| **2 Students** | Student 1 | Model Development (B) | ◑ Support | ✅ Full | ◑ Partial | ✅ Full | ◑ Model-level (bias, explainability) |
+|  | Student 2 | MLOps & Deployment (C) | ✅ Full | ◑ Partial | ✅ Full | ◑ Support | ✅ System-level (monitoring, logging, control) |
+| **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (fairness, bias checks) |
+|  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (comparison, explainability) |
+|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ✅ Full | ✅ Full (governance, monitoring, compliance) |
 
 ## Deliverables and Assessment Components
 
