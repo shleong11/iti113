@@ -62,7 +62,7 @@ This project consists of the following assessment components:
 | Final Report          | 10%   | 20%        | 30%   |
 | Final Presentation    | 5%   | 20%        | 25%   |
 
-| Assessment Component | Focus (A–D + Governance) | Group (%) | Individual (%) | Total (%) |
+| Assessment Component | Focus (A–D + Governance) | Overall (%) | Individual (%) | Total (%) |
 |---------------------|--------------------------|-----------|----------------|-----------|
 | **Project Proposal** | A (Problem & Data), D (Justification), Governance (Risk) | 20% | – | 20% |
 | **Progress Check** | A (EDA), B (Baseline Model), C (Pipeline Setup), Governance (Bias Awareness) | 5% | 20% | 25% |
