@@ -27,12 +27,14 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 
 ## Overview of Focus Areas 
 
-| Stage  | Model Development | Model Deployment & Operations  |
-|:----------|:----------|:----------|
-| Proposal    |The team will identify a business problem of your choice (or from the suggested list of projects) and formulate it as a machine learning problem. Perform AI risk assessment. Identify potential datasets to use for model development | same as Model Development |
-| Progress Check | Finalized training datasets, completed EDA and evaluation result of baseline model | Completed data pipeline and experimentation tracking setup and test environment setup | 
-| Final Report | Fine-tuned models with error analysis and interpretation of results | Model deployed on MLOps platform, completed checklist for AI governance, demo app deployed |  
-| Final Presentation | Highlight key individual contributions and demonstrate generated artifacts with of methodologies, results, and related development work | same as Model Development |
+| Assessment Stage | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance | Expected Outputs |
+|-----------------|---------------|--------------|-----------|---------------------|---------------|------------------|
+| **Proposal** | Problem framing, dataset identification | Define ML approach (baseline idea) | High-level pipeline design | Problem justification & business context | Initial AI risk assessment | Problem statement, dataset plan, risks identified |
+| **Progress Check** | Completed EDA, cleaned dataset | Baseline model + initial evaluation | Data pipeline + experiment tracking setup | Initial results interpretation | Identify potential bias / data issues | EDA notebook, baseline results, pipeline setup |
+| **Final Report** | Final dataset & feature engineering | Fine-tuned models + comparison (if applicable) | Deployment (endpoint/app), pipeline completed | Error analysis, insights, interpretation | Full governance checklist (fairness, explainability, monitoring) | Final report, deployed system, governance documentation |
+| **Final Presentation** | Summary of dataset & approach | Key model results | System demo (deployment) | Clear communication of insights | Governance considerations explained | Demo + presentation of end-to-end system |
+
+## Proposed Tasks / Workload Allocation for Team Members
 
 | Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance |
 |----------|-------------|------------------------|----------------|---------------|-----------|---------------------|---------------|
@@ -42,13 +44,6 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 | **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (fairness, bias checks) |
 |  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (comparison, explainability) |
 |  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ✅ Full | ✅ Full (governance, monitoring, compliance) |
-
-| Assessment Stage | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance | Expected Outputs |
-|-----------------|---------------|--------------|-----------|---------------------|---------------|------------------|
-| **Proposal** | Problem framing, dataset identification | Define ML approach (baseline idea) | High-level pipeline design | Problem justification & business context | Initial AI risk assessment | Problem statement, dataset plan, risks identified |
-| **Progress Check** | Completed EDA, cleaned dataset | Baseline model + initial evaluation | Data pipeline + experiment tracking setup | Initial results interpretation | Identify potential bias / data issues | EDA notebook, baseline results, pipeline setup |
-| **Final Report** | Final dataset & feature engineering | Fine-tuned models + comparison (if applicable) | Deployment (endpoint/app), pipeline completed | Error analysis, insights, interpretation | Full governance checklist (fairness, explainability, monitoring) | Final report, deployed system, governance documentation |
-| **Final Presentation** | Summary of dataset & approach | Key model results | System demo (deployment) | Clear communication of insights | Governance considerations explained | Demo + presentation of end-to-end system |
 
 ## Deliverables and Assessment Components
 
