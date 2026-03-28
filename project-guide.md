@@ -43,6 +43,13 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 |  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (comparison, explainability) |
 |  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ✅ Full | ✅ Full (governance, monitoring, compliance) |
 
+| Assessment Stage | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance | Expected Outputs |
+|-----------------|---------------|--------------|-----------|---------------------|---------------|------------------|
+| **Proposal** | Problem framing, dataset identification | Define ML approach (baseline idea) | High-level pipeline design | Problem justification & business context | Initial AI risk assessment | Problem statement, dataset plan, risks identified |
+| **Progress Check** | Completed EDA, cleaned dataset | Baseline model + initial evaluation | Data pipeline + experiment tracking setup | Initial results interpretation | Identify potential bias / data issues | EDA notebook, baseline results, pipeline setup |
+| **Final Report** | Final dataset & feature engineering | Fine-tuned models + comparison (if applicable) | Deployment (endpoint/app), pipeline completed | Error analysis, insights, interpretation | Full governance checklist (fairness, explainability, monitoring) | Final report, deployed system, governance documentation |
+| **Final Presentation** | Summary of dataset & approach | Key model results | System demo (deployment) | Clear communication of insights | Governance considerations explained | Demo + presentation of end-to-end system |
+
 ## Deliverables and Assessment Components
 
 This project consists of the following assessment components:
