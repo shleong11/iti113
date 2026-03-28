@@ -45,6 +45,11 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 |  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ✅ Full | ◑ Model-level (comparison, explainability) |
 |  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ✅ Full | ✅ Full (governance, monitoring, compliance) |
 
+Each team must demonstrate progress across all components (A–D and AI Governance) at every assessment stage.  
+Larger teams are expected to show greater depth (e.g., multi-model comparison, pipeline automation, monitoring).  
+The expected problem complexity, model performance, and level of detailed analysis and insights should increase proportionally with team size.
+AI Governance must be addressed progressively from risk identification (Proposal) to full implementation (Final Report).
+
 ## Deliverables and Assessment Components
 
 This project consists of the following assessment components:
