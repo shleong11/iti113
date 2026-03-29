@@ -63,7 +63,7 @@ This project consists of the following assessment components:
 
 - Project Proposal + Checklist - submitted by Sun 26 Jul 2026 23:59
 - Project Milestone Progress Check - Submitted by Sun 16 Aug 2026 23:59  
-- Final Report - submitted by Sun 30 Aug 2026 23:59
+- Final Report - submitted by Thu 27 Aug 2026 23:59
 - Final Presentation - Wed 26 Aug 2026 (Online assessment)
 
 ***refer to POLITEMALL for most updated schedule***
@@ -233,13 +233,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday | Wed | Thur|
 |:----------|:----------|:----------|:----------|
-| 13 | | |**17-Jul-25**<br/> Project Initiation / Consultation (F2F) <br/> (MKK/BRO) |                                                               
-| 14 | | |**24-Jul-25**<br/> Project Consultation (F2F) - <br/> (MKK/ZZQ) |                                                               
-| 15 | | |**31-Jul-25**<br/> Project Dev / Consultation (Zoom) <br/> (MKK/BRO) |                                                               
-| 16 | | |**7-Aug-25**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |                                                               
-| 17 | | |**14-Aug-25**<br/> Project Dev / Consultation (Zoom, by appointment only - <br/> (MKK) | 
-| 18 | **18-Aug-25**<br/> Progress Check (Zoom) <br/> (MKK/LCY/BRO/ZZQ) | **20-Aug-25**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK)| **21-Aug-25**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |
-| 19   | **25-Aug-25**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) | **27-Aug-25**<br/> **Project Presentation** (**Zoom**) <br/> (MKK/LCY/BRO/ZZQ) | **28-Aug-25** <br/> *Final Repot Submission* |
+| 13 | | |**16-Jul-26**<br/> Project Initiation / Consultation (F2F) <br/> (MKK/BRO) |                                                               
+| 14 | | |**23-Jul-26**<br/> Project Consultation (F2F) - <br/> (MKK/ZZQ) |                                                               
+| 15 | | |**30-Jul-26**<br/> Project Dev / Consultation (Zoom) <br/> (MKK/BRO) |                                                               
+| 16 | | |**6-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |                                                               
+| 17 | | |**13-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only - <br/> (MKK) | 
+| 18 | **17-Aug-26**<br/> Progress Check (Zoom) <br/> (MKK/LCY/BRO/ZZQ) | **19-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK)| **20-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |
+| 19   | **24-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) | **26-Aug-26**<br/> **Project Presentation** (**Zoom**) <br/> (MKK/LCY/BRO/ZZQ) | **27-Aug-26** <br/> *Final Repot Submission* |
 
 
 **Legends**
@@ -247,8 +247,10 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
 - LCY - Mr. Lee Ching Yuh
-- ZZQ - Dr. Zhao Zhiqiang
+- LSH - Dr. Leong Siang Huei
 - BRO - Dr. Brandon Ooi
+- WCH - Mr. Wee Chee Hong
+- SNG - Mr. Steven Ng
 
 
 [[1\]](#_ftnref1) Refer to the Lesson 3 lecture notes on ML framing 
