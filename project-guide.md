@@ -37,9 +37,9 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 | **1 Student** | Full Stack ML | A + B + C + D | ✅ Full | ✅ Full | ✅ Full | ✅ Full | ✅ Full |
 | **2 Students** | Student 1 | Model Development (B) | ✅ Main | ✅ Main | ◑ Support | ◑ Partial | ◑ Model-level (bias, explainability) |
 |  | Student 2 | MLOps & Deployment (C) | ◑ Support | ◑ Support | ✅ Main | ◑ Partial | ✅ System-level (monitoring, logging, control) |
-| **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (fairness, bias checks) |
-|  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (comparison, explainability) |
-|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ◑ Exposure | ✅ System-level (governance, monitoring, compliance) |
+| **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Main | ◑ Exposure | ◑ Partial | ◑ Model-level (fairness, bias checks) |
+|  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Main | ◑ Exposure | ◑ Partial | ◑ Model-level (comparison, explainability) |
+|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Main | ◑ Exposure | ✅ System-level (governance, monitoring, compliance) |
 
 Performance Expectation:
 - Each team must demonstrate progress across all components (A–D and AI Governance) at every assessment stage.  
