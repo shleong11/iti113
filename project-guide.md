@@ -135,7 +135,7 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 | | (0 - <4) | (5 - <8) | (8 - 10) | 
 | Team work | Little or no coordination between members in model development process or no coordination between model and mlops members | Some coordination between members in the model development process, or coordination between development operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | Very close coordination within the model development team, or between the model development and operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | 
 
-- *Group score for 1-person team will evaluate how well the different aspects work together.
+- *Group score for 1-person team will evaluate how well the different parts are integrated and working together.
   
 ## Final Report
 
