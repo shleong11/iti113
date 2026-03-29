@@ -35,8 +35,8 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 | Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance |
 |----------|-------------|------------------------|----------------|---------------|-----------|---------------------|---------------|
 | **1 Student** | Full Stack ML | A + B + C + D | ✅ Full | ✅ Full | ✅ Full | ✅ Full | ✅ Full |
-| **2 Students** | Student 1 | Model Development (B) | ◑ Support | ✅ Full | ◑ Partial | ✅ Full | ◑ Model-level (bias, explainability) |
-|  | Student 2 | MLOps & Deployment (C) | ✅ Full | ◑ Partial | ✅ Full | ◑ Support | ✅ System-level (monitoring, logging, control) |
+| **2 Students** | Student 1 | Model Development (B) | ◑ Joint | ✅ Full | ◑ Partial | ✅ Full | ◑ Model-level (bias, explainability) |
+|  | Student 2 | MLOps & Deployment (C) | ◑ Joint | ◑ Partial | ✅ Full | ◑ Support | ✅ System-level (monitoring, logging, control) |
 | **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (fairness, bias checks) |
 |  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (comparison, explainability) |
 |  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ◑ Partial | ✅ System-level (governance, monitoring, compliance) |
