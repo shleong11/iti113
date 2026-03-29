@@ -16,7 +16,7 @@ You are expected to form a project team of up to 3 members.
 
 - Each member should take ownership and lead his/her primary or focus area(s) (refer to later sections on descriptions of focus areas)
 - Each member should be able to deliver his/her focus area(s) while providing support in other areas, and the team should complete all the associated tasks.
-- Each team is expected work professionally and amicably. Marks will be deducted for individuals who rely heavily on others to complete their tasks, and or for teams that do not work well together.
+- Each team is expected work professionally and amicably. Marks will be deducted for individuals who rely heavily on others to complete their tasks, and/or for teams that do not work well together.
 - The role of the project mentor is to provide guidance on your project proposal and to make sure you are on the right track in your project (not to settle disputes or disagreements in teams)
 
 Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n_YYT-DeoNPcEv0u6HoiTz-bfNkQJJaIFh70sArY3prQ/viewform?usp=preview) of your project team members.
