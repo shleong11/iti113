@@ -233,13 +233,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday | Wed | Thur|
 |:----------|:----------|:----------|:----------|
-| 13 | | |**16-Jul-26**<br/> Project Initiation / Consultation (F2F) <br/> (MKK/BRO) |                                                               
-| 14 | | |**23-Jul-26**<br/> Project Consultation (F2F) - <br/> (MKK/ZZQ) |                                                               
-| 15 | | |**30-Jul-26**<br/> Project Dev / Consultation (Zoom) <br/> (MKK/BRO) |                                                               
-| 16 | | |**6-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |                                                               
+| 13 | | |**16-Jul-26**<br/> Project Initiation / Consultation (F2F) <br/> (MKK/LSH) |                                                               
+| 14 | | |**23-Jul-26**<br/> Project Consultation (F2F) - <br/> (MKK/LSH) |                                                               
+| 15 | | |**30-Jul-26**<br/> Project Dev / Consultation (Zoom) <br/> (MKK/LSH) |                                                               
+| 16 | | |**6-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (LSH) |                                                               
 | 17 | | |**13-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only - <br/> (MKK) | 
-| 18 | **17-Aug-26**<br/> Progress Check (Zoom) <br/> (MKK/LCY/BRO/ZZQ) | **19-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK)| **20-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |
-| 19   | **24-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) | **26-Aug-26**<br/> **Project Presentation** (**Zoom**) <br/> (MKK/LCY/BRO/ZZQ) | **27-Aug-26** <br/> *Final Repot Submission* |
+| 18 | **17-Aug-26**<br/> Progress Check (Zoom) <br/> (MKK/LSH) | **19-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (LSH)| **20-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (MKK) |
+| 19   | **24-Aug-26**<br/> Project Dev / Consultation (Zoom, by appointment only) <br/> (LSH) | **26-Aug-26**<br/> **Project Presentation** (**Zoom**) <br/> (MKK/LCY/LSH/BRO/WCH/SNG) | **27-Aug-26** <br/> *Final Repot Submission* |
 
 
 **Legends**
