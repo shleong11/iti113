@@ -39,7 +39,7 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 |  | Student 2 | MLOps & Deployment (C) | ✅ Full | ◑ Partial | ✅ Full | ◑ Support | ✅ System-level (monitoring, logging, control) |
 | **3 Students** | Student 1 | Model Development (Model A) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (fairness, bias checks) |
 |  | Student 2 | Model Development (Model B) | ◑ Partial | ✅ Full | ◑ Exposure | ◑ Partial | ◑ Model-level (comparison, explainability) |
-|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ◑ Partial | ◑ Full (governance, monitoring, compliance) |
+|  | Student 3 | MLOps & Deployment (C) | ◑ Exposure | ◑ Partial | ✅ Full | ◑ Partial | ✅ System-level (governance, monitoring, compliance) |
 
 Performance Expectation:
 - Each team must demonstrate progress across all components (A–D and AI Governance) at every assessment stage.  
