@@ -221,11 +221,12 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Name                              | Contact |
 |:----------|:----------|
-| Mr. Mar Kheng Kok (Module Leader) | refer to POLITEMALL |
-| Mr. Lee Ching Yuh (Project Mentor) | refer to POLITEMALL |
-| Dr. Brandon Ooi(Project Mentor)  | refer to POLITEMALL |
-| Dr. Zhao Zhiqiang (Project Mentor) | refer to POLITEMALL |
-
+| Mr. Mar Kheng Kok (Course Manager / Project Mentor) | refer to POLITEMALL |
+| Dr. Leong Siang Huei (Module Leader / Project Mentor) | refer to POLITEMALL |
+| Dr. Brandon Ooi (Project Mentor)  | refer to POLITEMALL |
+| Mr. Wee Chee Hong (Project Mentor)  | refer to POLITEMALL |
+| Mr. Lee Ching Yuh (Project Mentor)  | refer to POLITEMALL |
+| Mr. Steven Ng (Project Mentor) | refer to POLITEMALL |
 
 ## Project Schedule
 
