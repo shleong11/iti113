@@ -141,9 +141,11 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
-| **Marks (Team)** | 0 – <2 | 2 – <3 | 3 – <3.5 | 3.5 – <4 | 4 – 5 |
+|  | 0 – <2.5 Marks | 2.5 – <3 Marks | 3 – <3.5 Marks | 3.5 – <4 Marks| 4 – 5 Marks |
 | **Teamwork (Multi-member Teams)** | * Little or no coordination between members in model development process.<br>* No coordination between model and MLOps members. | * Limited coordination between members.<br>* Minimal collaboration between model and operations roles. | * Some coordination between members in model development.<br>* Basic coordination between development and operations teams. | * Good coordination within team across model development and MLOps.<br>* Clear collaboration in defining pipeline, tracking, and CI/CD. | * Excellent coordination across all team members.<br>* Seamless integration between model development and MLOps (pipeline, tracking, CI/CD fully aligned). |
 | **Integration (1-Person Team)** | * Components are disconnected with little integration.<br>* Workflow is incomplete or inconsistent. | * Some components connected but workflow lacks clarity.<br>* Integration is partial and inconsistent. | * Components are generally connected.<br>* Workflow is functional but may lack smoothness. | * Well-integrated components across A–D.<br>* Smooth and logical workflow from data to deployment. | * Fully integrated end-to-end system.<br>* Seamless flow across all components (A–D + governance) with clear design, consistency, and robustness. |
+
+- For 1-person teams, assessment focuses on system integration quality, coherence, and smooth workflow across all components instead of team coordination.
 
 ## Final Report
 
