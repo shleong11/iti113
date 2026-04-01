@@ -171,7 +171,7 @@ Each team should submit one combined Final report. The report should include the
   
 ### Grading Rubrics
 
-#### Model Development (Individual - 20%)
+#### Model Development Focus (Individual - 20%)
 
 |   | Below Expectation | Approaching Expectation | Meeting Expectation |
 |:----------|:----------|:----------|:----------|
@@ -181,7 +181,7 @@ Each team should submit one combined Final report. The report should include the
 | Modelling (10%) | <ul><li>Little or no explanation of choice of algorithms</li><li>Minimal or no discussion of experimental results | <ul><li>Good explanation of algorithms used</li><li>Good discussion of experimental results</li></ul>  | <ul><li>Excellent discussion of algorithmic choice and the resultant trade-off</li><li>Excellent discussion of the experimental results and the performance tuning done</li></ul> |
 
 
-#### Model Operations & Deployment (Individual - 20%)
+#### Model Operations & Deployment Focus (Individual - 20%)
 
 |   | Below Expectation | Approaching Expectation | Meeting Expectation |
 |:----------|:----------|:----------|:----------|
