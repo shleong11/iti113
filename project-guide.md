@@ -47,7 +47,7 @@ Performance Expectation:
 - The expected problem complexity, model performance, and level of detailed analysis and insights should increase proportionally with team size.
 - AI Governance must be addressed progressively from risk identification (Proposal) to full implementation (Final Report).
 > ℹ️ **Note:** Students are encouraged to use the [AI-Verify Tool](https://aiverifyfoundation.sg/what-is-ai-verify/) where applicable.  
-> At minimum, all projects must include an AI governance checklist aligned to the [IMDA/ISAGO Model AI Governance Framework](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/ai-governance-framework).
+> At minimum, all projects must include an AI governance checklist aligned to the [IMDA/ISAGO Model AI Governance Framework](https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence#Model-AI-Governance-Framework-for-Agentic-AI).
   
 ## Deliverables and Assessment Components
 
