@@ -200,6 +200,17 @@ Each team should submit one combined Final report. The report should include the
 | AI governance checklist  (5%) | <ul><li>No checklist or minimal checklist completed</li><li>Explanation given in checklist is irrelevant or contains errors</li></ul> | <ul><li>Some checklist items completed</li><li>Explanation given in checklist is mostly relevant and correct</li></ul>  | <ul><li>Completed checklist for all required items</li><li>Explanation given in the checklist is relevant and correct.</li></ul> |
 | Test Result (5%) | No test result given or incomplete test result | Complete and relevant test result given | Complete and relevant test result given and good explanation of the test result | 
 
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--|--|--|--|--|
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **MLOps Pipeline (5%)** | * No or minimal description of the ML pipeline setup. | * Basic description of pipeline with limited clarity.<br>* Weak linkage to model development or deployment. | * Clear description of the ML pipeline setup, supporting model development and deployment. | * Well-structured pipeline with clear explanation of components and workflow.<br>* Good linkage to model lifecycle. | * Very clear and comprehensive pipeline architecture.<br>* Demonstrates automation, scalability, and strong integration across development and deployment. |
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **Demo Application (5%)** | * Minimal or no description of how the application works. | * Basic description of the application.<br>* Limited explanation of interaction with models. | * Clear description of the application with explanation of interfacing with the models. | * Well-described application with clear architecture and integration with models.<br>* Good explanation of system flow. | * Very clear and detailed application architecture.<br>* Strong integration with models and explanation of continuous training or updates. |
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **AI Governance Checklist (5%)** | * No checklist or minimal checklist completed.<br>* Explanation is irrelevant or incorrect. | * Basic checklist with limited items.<br>* Explanation partially correct. | * Some checklist items completed.<br>* Explanation mostly relevant and correct. | * Most checklist items completed and relevant.<br>* Explanation is clear and appropriate. | * Comprehensive checklist aligned to full project lifecycle.<br>* Clear, accurate explanation including risks, bias, and mitigation strategies. |
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **Test Results (5%)** | * No test results or incomplete results. | * Limited or partially relevant test results. | * Complete and relevant test results provided. | * Good test results with clear explanation and evaluation. | * Comprehensive test results with strong analysis, validation, and interpretation. |
+
 #### Group 
 
 | | Below Expectation | Approaching Expectation | Meeting Expectation |
