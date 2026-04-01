@@ -118,6 +118,14 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 | | (0 - < 2.5) | (2.5 - < 4) | (4 - 5)
 | Modelling  (5%)  | <ul><li>Inappropriate choice of algorithms for the chosen problem</li><li>Minimal or no model experimentation is done | <ul><li>appropriate choice of algorithm for the chosen problem</li><li>Some model experimentation is done with reasonable result</li></ul>  | <ul><li>appropriate choice of algorithm with clear justification and consideration of ai governance aspects</li><li>Some early model experimentation results with clear interpretation and good performance exceeding baseline</li></ul> |
 
+# 📊 Grading Rubrics  
+## Model Development (Individual – 20%)
+
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|----------|--------------|------------|------------|-----------|------------|
+| **Data Understanding & Preprocessing (15%)** | (0 – <6) <br> • Minimal or no exploratory data analysis <br> • Minimal or no data preparation | (6 – <9) <br> • Limited EDA with superficial observations <br> • Basic preprocessing with gaps or errors | (9 – <12) <br> • Adequate EDA with some insights <br> • Reasonable preprocessing completed | (12 – <14) <br> • Good EDA with clear insights and patterns identified <br> • Well-executed preprocessing and feature preparation | (14 – 15) <br> • Extensive and insightful EDA uncovering non-obvious patterns <br> • Advanced preprocessing and feature engineering with strong justification |
+| **Modelling (5%)** | (0 – <2) <br> • Inappropriate or no model used <br> • No meaningful experimentation | (2 – <3) <br> • Basic model selected with weak justification <br> • Limited experimentation with poor results | (3 – <4) <br> • Appropriate model selected <br> • Some experimentation with reasonable results | (4 – <4.5) <br> • Appropriate model with clear justification and consideration of AI governance <br> • Good performance exceeding baseline with clear interpretation | (4.5 – 5) <br> • Strong model selection with comparison or tuning <br> • High performance with deep interpretation, limitations discussed, and governance considerations clearly integrated |
+
 
 #### Model Operations & Deployment (Individual - 20%)
 
