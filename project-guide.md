@@ -183,6 +183,12 @@ Each team should submit one combined Final report. The report should include the
 | | (0 - <4) | (5 - <8) | (8 - 10)
 | Modelling (10%) | <ul><li>Little or no explanation of choice of algorithms</li><li>Minimal or no discussion of experimental results | <ul><li>Good explanation of algorithms used</li><li>Good discussion of experimental results</li></ul>  | <ul><li>Excellent discussion of algorithmic choice and the resultant trade-off</li><li>Excellent discussion of the experimental results and the performance tuning done</li></ul> |
 
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--|--|--|--|--|
+|  | 0 – <4 marks | 4 – <6 marks | 6 – <7 marks | 7 – <8 marks | 8 – 10 marks |
+| **Data (10%)** | * No or minimal data analysis provided. | * Basic data analysis with limited insights. | * Good data analysis provided with some insights. | * Strong data analysis with clear and meaningful insights.<br>* Some discussion of potential data bias. | * Excellent data analysis with very insightful discussion.<br>* Clear analysis of potential data bias and mitigation techniques. |
+|  | 0 – <4 marks | 4 – <6 marks | 6 – <7 marks | 7 – <8 marks | 8 – 10 marks |
+| **Modelling (10%)** | * Little or no explanation of choice of algorithms.<br>* Minimal or no discussion of experimental results. | * Basic explanation of algorithm choice.<br>* Limited discussion of experimental results. | * Good explanation of algorithms used.<br>* Good discussion of experimental results. | * Strong explanation of algorithm choice with some discussion of trade-offs.<br>* Clear discussion of experimental results and performance. | * Excellent discussion of algorithmic choice and trade-offs.<br>* Excellent discussion of experimental results and performance tuning. |
 
 #### Model Operations & Deployment Focus (Individual - 20%)
 
