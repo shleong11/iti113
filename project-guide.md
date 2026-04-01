@@ -32,7 +32,7 @@ Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeD-6n
 
 ## Proposed Tasks / Workload Allocation for Team Members
 
-| Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance [AI-Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) |
+| Team Size | Student Role | Primary Responsibility | A (Data & EDA) | B (Model Dev) | C (MLOps) | D (Analysis & Comm) | AI Governance ℹ️ |
 |----------|-------------|------------------------|----------------|---------------|-----------|---------------------|---------------|
 | **1 Student** | Full Stack ML | A + B + C + D | ✅ Full | ✅ Full | ✅ Full | ✅ Full | ✅ Full |
 | **2 Students** | Student 1 | Model Development (B) | ✅ Main | ✅ Main | ◑ Support | ◑ Partial | ◑ Model-level (bias, explainability) |
@@ -46,7 +46,7 @@ Performance Expectation:
 - Larger teams are expected to show greater depth (e.g., multi-model comparison, pipeline automation, monitoring).  
 - The expected problem complexity, model performance, and level of detailed analysis and insights should increase proportionally with team size.
 - AI Governance must be addressed progressively from risk identification (Proposal) to full implementation (Final Report).
-  * Refer and use AI Verify Tool :: [AI-Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) – Singapore’s AI governance testing framework for validating fairness, transparency, and accountability in AI systems.
+  ℹ️ Refer and use AI Verify Tool :: [AI-Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) – Singapore’s AI governance testing framework for validating fairness, transparency, and accountability in AI systems.
   
 ## Deliverables and Assessment Components
 
