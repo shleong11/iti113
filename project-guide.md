@@ -213,10 +213,10 @@ During final presentation, you will be jointly assessed by more than one supervi
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
-| **Presentation (Group) (5%)** | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
-|  | * No coordination among members.<br>* Incoherent presentation flow. | * Limited coordination among members.<br>* Presentation flow is weak or inconsistent. | * Some coordination among members.<br>* Presentation flow is evident. | * Good coordination among members.<br>* Presentation flow is clear with defined task division. | * Excellent coordination among members.<br>* Seamless presentation flow with clear and well-balanced task division. |
-| **Presentation (Individual) (20%)** | 0 – <10 marks | 10 – <13 marks | 13 – <16 marks | 16 – <18 marks | 18 – 20 marks |
-|  | * Unable to present content or presentation is incoherent.<br>* Unable to answer most questions. | * Basic presentation with limited clarity.<br>* Able to answer some questions with hesitation. | * Clear and generally coherent presentation.<br>* Able to answer most questions. | * Clear and confident presentation with good structure.<br>* Able to answer questions well. | * Highly clear, confident, and engaging presentation.<br>* Demonstrates strong understanding with ability to answer all or most questions confidently.<br>* Includes effective demo of application / deployment. |
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **Presentation (Group) (5%)** | * No coordination among members.<br>* Incoherent presentation flow. | * Limited coordination among members.<br>* Presentation flow is weak or inconsistent. | * Some coordination among members.<br>* Presentation flow is evident. | * Good coordination among members.<br>* Presentation flow is clear with defined task division. | * Excellent coordination among members.<br>* Seamless presentation flow with clear and well-balanced task division. |
+|  | 0 – <10 marks | 10 – <13 marks | 13 – <16 marks | 16 – <18 marks | 18 – 20 marks |
+| **Presentation (Individual) (20%)** | * Unable to present content or presentation is incoherent.<br>* Unable to answer most questions. | * Basic presentation with limited clarity.<br>* Able to answer some questions with hesitation. | * Clear and generally coherent presentation.<br>* Able to answer most questions. | * Clear and confident presentation with good structure.<br>* Able to answer questions well. | * Highly clear, confident, and engaging presentation.<br>* Demonstrates strong understanding with ability to answer all or most questions confidently.<br>* Includes effective demo of application / deployment. |
 
 ## Project mentors
 
