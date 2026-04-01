@@ -123,13 +123,6 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 #### Model Operations & Deployment Focus (Individual - 20%)
 
-|   | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <7.5) | (7.5 - <12) | (12 - 15)
-| MLOps Pipeline (15%)| <ul><li>No data pipeline is defined or or data pipeline has errors</li><li>No experimentation logging setup</li><li>Minimal features or no features setup for MLOps platform</li></ul> | <ul><li>Appropriate data pipeline is setup and works partially</li><li>Experiment logging available</li><li>Model registry is available for model versioning| <ul><li>Complete and working data pipeline</li><li>Extensive logging facility available with dashboard / visualization</li><li>Model registry and CI/CD pipeline is setup</li></ul> |
-| | (0 - < 2.5) | (2.5 - < 4) | (4 - 5)
-| AI governance checklist (5%)  | <ul><li>No checklist or minimal checklist completed</li><li>Explanation given in checklist is irrelevant or contains errors</li></ul> | <ul><li>Some checklist items completed</li><li>Explanation given in checklist is mostly relevant and correct</li></ul>  | <ul><li>Most checklist items relevant for the given project cycle is completed</li><li>Explanation given in the checklist is relevant and correct.</li></ul> |
-
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
 |  | 0 – <7.5 marks | 7.5 – <9 marks | 9 – <10.5 marks | 10.5 – <12 marks | 12 – 15 marks |
