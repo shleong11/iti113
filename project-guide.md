@@ -123,10 +123,10 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
-| **Data Understanding & Preprocessing (15%)** | 0 – <7.5 marks | 7.5 – <9 marks | 9 – <10.5 marks | 10.5 – <12 marks | 12 – 15 marks |
-|  | * Minimal or no exploratory data analysis.<br>* Minimal or no data preparation. | * Limited EDA with superficial observations.<br>* Basic preprocessing with gaps or errors. | * Adequate EDA with some insights.<br>* Reasonable preprocessing completed. | * Good EDA with clear insights and patterns identified.<br>* Well-executed preprocessing and feature preparation. | * Extensive and insightful EDA uncovering non-obvious patterns.<br>* Advanced preprocessing and feature engineering with strong justification. |
-| **Modelling (5%)** | 0 – <2.5 marks | 2.5 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
-|  | * Inappropriate or no model used.<br>* No meaningful experimentation. | * Basic model selected with weak justification.<br>* Limited experimentation with poor results. | * Appropriate model selected.<br>* Some experimentation with reasonable results. | * Appropriate model with clear justification and consideration of AI governance.<br>* Good performance exceeding baseline with clear interpretation. | * Strong model selection with comparison or tuning.<br>* High performance with deep interpretation, limitations discussed, and governance considerations clearly integrated. |
+|  | 0 – <7.5 marks | 7.5 – <9 marks | 9 – <10.5 marks | 10.5 – <12 marks | 12 – 15 marks |
+| **Data Understanding & Preprocessing (15%)** | * Minimal or no exploratory data analysis.<br>* Minimal or no data preparation. | * Limited EDA with superficial observations.<br>* Basic preprocessing with gaps or errors. | * Adequate EDA with some insights.<br>* Reasonable preprocessing completed. | * Good EDA with clear insights and patterns identified.<br>* Well-executed preprocessing and feature preparation. | * Extensive and insightful EDA uncovering non-obvious patterns.<br>* Advanced preprocessing and feature engineering with strong justification. |
+|  | 0 – <2.5 marks | 2.5 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+|  **Modelling (5%)**  | * Inappropriate or no model used.<br>* No meaningful experimentation. | * Basic model selected with weak justification.<br>* Limited experimentation with poor results. | * Appropriate model selected.<br>* Some experimentation with reasonable results. | * Appropriate model with clear justification and consideration of AI governance.<br>* Good performance exceeding baseline with clear interpretation. | * Strong model selection with comparison or tuning.<br>* High performance with deep interpretation, limitations discussed, and governance considerations clearly integrated. |
 
 
 
