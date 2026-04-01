@@ -139,7 +139,7 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 - For 1-person teams, assessment focuses on system integration quality, coherence, and smooth workflow across all components instead of team coordination.
 
-## Final Report (25%)
+## Final Report (30%)
 
 Each team should submit one combined Final report. The report should include the following sections: 
 
@@ -204,7 +204,7 @@ Each team should submit one combined Final report. The report should include the
 |  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
 | **Overall Report (5%)** | * Inconsistent or poorly structured report formatting.<br>* No clear contribution from members. | * Somewhat consistent report formatting.<br>* Limited clarity of member contributions. | * Generally consistent report formatting.<br>* Basic indication of member contributions. | * Very consistent report formatting.<br>* Clear indication of contributions of each member. | * Highly consistent and professional report formatting.<br>* Clear, detailed, and well-balanced contribution from each member. |
 
-## Final Presentation (15%)
+## Final Presentation (25%)
 
 During final presentation, you will be jointly assessed by more than one supervisor to ensure fairness in assessment. Among other things, you are required to show and explain the work you have done. You will be assessed based on your demonstrated understanding of the methodologies used and discussion of the experimental results.
 
