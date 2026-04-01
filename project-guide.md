@@ -130,7 +130,7 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 |  | 0 – <2.5 marks | 2.5 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
 | **AI Governance Checklist (5%)** | * No checklist or minimal checklist completed.<br>* Explanation in checklist is irrelevant or contains errors. | * Basic checklist with limited items completed.<br>* Explanation partially relevant but lacks clarity. | * Some checklist items completed.<br>* Explanation mostly relevant and correct. | * Most checklist items relevant for the project cycle completed.<br>* Explanation is clear and relevant. | * Comprehensive checklist fully aligned to project lifecycle.<br>* Clear, accurate, and well-justified explanations including risks, bias, and mitigation strategies. |
 
-#### Group (10%)
+#### Overall / Group (5%)
 
 | | Below Expectation | Approaching Expectation | Meeting Expectation |
 |:----------|:----------|:----------|:----------|
@@ -138,7 +138,13 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 | Team work | Little or no coordination between members in model development process or no coordination between model and mlops members | Some coordination between members in the model development process, or coordination between development operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | Very close coordination within the model development team, or between the model development and operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | 
 
 - *Group score for 1-person team will evaluate how well the different parts are integrated and working together.
-  
+
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--|--|--|--|--|
+| **Marks (Team)** | 0 – <2 | 2 – <3 | 3 – <3.5 | 3.5 – <4 | 4 – 5 |
+| **Teamwork (Multi-member Teams)** | * Little or no coordination between members in model development process.<br>* No coordination between model and MLOps members. | * Limited coordination between members.<br>* Minimal collaboration between model and operations roles. | * Some coordination between members in model development.<br>* Basic coordination between development and operations teams. | * Good coordination within team across model development and MLOps.<br>* Clear collaboration in defining pipeline, tracking, and CI/CD. | * Excellent coordination across all team members.<br>* Seamless integration between model development and MLOps (pipeline, tracking, CI/CD fully aligned). |
+| **Integration (1-Person Team)** | * Components are disconnected with little integration.<br>* Workflow is incomplete or inconsistent. | * Some components connected but workflow lacks clarity.<br>* Integration is partial and inconsistent. | * Components are generally connected.<br>* Workflow is functional but may lack smoothness. | * Well-integrated components across A–D.<br>* Smooth and logical workflow from data to deployment. | * Fully integrated end-to-end system.<br>* Seamless flow across all components (A–D + governance) with clear design, consistency, and robustness. |
+
 ## Final Report
 
 Each team should submit one combined Final report. The report should include the following sections: 
