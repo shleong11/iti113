@@ -69,7 +69,7 @@ This project consists of the following assessment components:
 ***refer to POLITEMALL for most updated schedule***
 
 
-## Project Proposal
+## Project Proposal (20%)
 
 - In the project proposal, your team will pick a business problem of your choice (or from the suggested list of projects) and formulate it as a machine learning problem.
 - You are to perform risk assessment of the AI system you are developing. 
@@ -97,7 +97,7 @@ Project proposal should include the following information:
 | **Project Proposal** | * No or minimal formulation of the problem.<br>* No reference to dataset is provided or dataset given is not relevant to the problem.<br>* No ML approach is provided or incorrect approach proposed for the problem.<br>* No deployment scenario provided or lack of details on deployment.<br>* Little or no risk and impact assessment done. | * Basic problem formulation but lacks clarity.<br>* Dataset loosely relevant with minimal explanation.<br>* Basic ML approach suggested with weak justification.<br>* Limited discussion on deployment.<br>* Superficial risk and impact assessment. | * Correct problem formulation is provided.<br>* Dataset provided is somewhat relevant to the problem.<br>* Appropriate ML approach is proposed.<br>* Some discussion on how the model is to be deployed.<br>* Some assessment of the risk and impact. | * Well-defined problem formulation with consideration for alternative approaches (e.g. heuristics).<br>* Dataset provided is relevant with discussion on how the dataset is collected.<br>* Correct ML approach proposed with some discussion on other ML approaches.<br>* Clear and structured discussion on how the model is deployed in the overall solution.<br>* Clear assessment of the impact, risks, and limitations of the AI system. | * Strong and well-justified problem formulation with critical evaluation of alternatives.<br>* High-quality dataset with detailed discussion on collection, limitations, and suitability.<br>* Well-justified ML approach with comparison of multiple approaches.<br>* Detailed and realistic deployment architecture integrated into the solution.<br>* Comprehensive AI governance: clear discussion of risks, bias, ethical considerations, and mitigation strategies. |
 
 
-## Progress Check 
+## Progress Check (25%)
 
 ### Model Development 
 
@@ -120,7 +120,6 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 |  **Modelling (5%)**  | * Inappropriate or no model used.<br>* No meaningful experimentation. | * Basic model selected with weak justification.<br>* Limited experimentation with poor results. | * Appropriate model selected.<br>* Some experimentation with reasonable results. | * Appropriate model with clear justification and consideration of AI governance.<br>* Good performance exceeding baseline with clear interpretation. | * Strong model selection with comparison or tuning.<br>* High performance with deep interpretation, limitations discussed, and governance considerations clearly integrated. |
 
 
-
 #### Model Operations & Deployment Focus (Individual - 20%)
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
@@ -140,7 +139,7 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 - For 1-person teams, assessment focuses on system integration quality, coherence, and smooth workflow across all components instead of team coordination.
 
-## Final Report
+## Final Report (25%)
 
 Each team should submit one combined Final report. The report should include the following sections: 
 
@@ -205,7 +204,7 @@ Each team should submit one combined Final report. The report should include the
 |  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
 | **Overall Report (5%)** | * Inconsistent or poorly structured report formatting.<br>* No clear contribution from members. | * Somewhat consistent report formatting.<br>* Limited clarity of member contributions. | * Generally consistent report formatting.<br>* Basic indication of member contributions. | * Very consistent report formatting.<br>* Clear indication of contributions of each member. | * Highly consistent and professional report formatting.<br>* Clear, detailed, and well-balanced contribution from each member. |
 
-## Final Presentation
+## Final Presentation (15%)
 
 During final presentation, you will be jointly assessed by more than one supervisor to ensure fairness in assessment. Among other things, you are required to show and explain the work you have done. You will be assessed based on your demonstrated understanding of the methodologies used and discussion of the experimental results.
 
