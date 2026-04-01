@@ -196,7 +196,7 @@ Each team should submit one combined Final report. The report should include the
 |  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
 | **Test Results (5%)** | * No test results or incomplete results. | * Limited or partially relevant test results. | * Complete and relevant test results provided. | * Good test results with clear explanation and evaluation. | * Comprehensive test results with strong analysis, validation, and interpretation. |
 
-#### Overall / Group 
+#### Overall / Group (10%)
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
@@ -209,16 +209,14 @@ Each team should submit one combined Final report. The report should include the
 
 During final presentation, you will be jointly assessed by more than one supervisor to ensure fairness in assessment. Among other things, you are required to show and explain the work you have done. You will be assessed based on your demonstrated understanding of the methodologies used and discussion of the experimental results.
 
-
-
 ### Grading Rubrics
 
-| | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | 0 - <2.5  | 2.5 - <4 | 4 - 5|
-| Presentation (Group) (5%) | <ul><li>No coordination among members</li><li>Incoherent presentation flow</li></ul><br/>| <ul><li>Some coordination among members</li><li>Presentation flow is evident</li></ul><br/> | <ul><li>Good coordination among members</li><li>Presentation flow is clear and very clear task division.</li></ul><br/>
-| | 0 - <10 | 10 - <16 | 16 - 20 | 
-| Presentation (Individual) (20 %) | <ul><li>Unable to present the content or incoherent presentation</li><li>Unable to answer most of the questions</li></ul> | <ul><li>Somewhat clear and coherent presentation</li><li>Able to answer some questions with some hesitation</li></ul> | <ul><li> Clear and coherent presentation with demo of application / deployment</li><li>Able to answer all or most of the questions confidently</li></ul> |
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--|--|--|--|--|
+| **Presentation (Group) (5%)** | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+|  | * No coordination among members.<br>* Incoherent presentation flow. | * Limited coordination among members.<br>* Presentation flow is weak or inconsistent. | * Some coordination among members.<br>* Presentation flow is evident. | * Good coordination among members.<br>* Presentation flow is clear with defined task division. | * Excellent coordination among members.<br>* Seamless presentation flow with clear and well-balanced task division. |
+| **Presentation (Individual) (20%)** | 0 – <10 marks | 10 – <13 marks | 13 – <16 marks | 16 – <18 marks | 18 – 20 marks |
+|  | * Unable to present content or presentation is incoherent.<br>* Unable to answer most questions. | * Basic presentation with limited clarity.<br>* Able to answer some questions with hesitation. | * Clear and generally coherent presentation.<br>* Able to answer most questions. | * Clear and confident presentation with good structure.<br>* Able to answer questions well. | * Highly clear, confident, and engaging presentation.<br>* Demonstrates strong understanding with ability to answer all or most questions confidently.<br>* Includes effective demo of application / deployment. |
 
 ## Project mentors
 
