@@ -45,8 +45,8 @@ Performance Expectation:
 - Each team must demonstrate progress across all components (A–D and AI Governance) at every assessment stage.  
 - Larger teams are expected to show greater depth (e.g., multi-model comparison, pipeline automation, monitoring).  
 - The expected problem complexity, model performance, and level of detailed analysis and insights should increase proportionally with team size.
-- AI Governance must be addressed progressively from risk identification (Proposal) to full implementation (Final Report).
-
+- AI Governance must be addressed progressively from risk identification (Proposal) to full implementation (Final Report). Refer and use AI Verify Tool :: [AI-Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) – Singapore’s AI governance testing framework for validating fairness, transparency, and accountability in AI systems.
+  
 ## Deliverables and Assessment Components
 
 This project consists of the following assessment components:
