@@ -97,6 +97,15 @@ Project proposal should include the following information:
 | *Project Proposal* | <ul><li>No or minimal formulation of the problem. </li><li>No reference to dataset is provided or dataset given is not relevant to the problem. </li><li>No ML approach is provided or incorrect approach proposed for the problem</li><li>No deployment scenario provided or lack of details on deployment </li><li>Little or no risk and impact assessment done</li></ul> | <ul><li>Correct problem formulation is provided.</li><li>Dataset provided is somewhat relevant to the problem.</li><li>Appropriate ML approach is proposed</li><li>Some discussion on how the model is to be deployed. </li><li>Some assessment of the risk and impact</ul><br/> | <ul><li>Correct  problem formulation with consideration for alternative formulation such as heuristics.</li><li>Dataset provided is relevant with discussion on how the dataset is collected.</li><li>    Correct ML approach proposed with some discussion on other ML approaches. </li><li>Clear and detailed discussion on how the model is deployed in the overall solution.</li><li>Very clear assessment of the impact and risk of the AI system</ul><br/> |
 
 
+|  | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--------------|------------|------------|-----------|------------|
+|  | 0 – <10 marks | 10 – <12 marks | 12 – <14 marks | 14 – <16 marks | 16 – 20 marks |
+| **Project Proposal** | No or minimal formulation of the problem. | Basic problem formulation but lacks clarity. | Correct problem formulation is provided. | Well-defined problem formulation with consideration for alternative approaches (e.g. heuristics). | Strong and well-justified problem formulation with critical evaluation of alternatives. |
+|  | No reference to dataset is provided or dataset given is not relevant to the problem. | Dataset loosely relevant with minimal explanation. | Dataset provided is somewhat relevant to the problem. | Dataset provided is relevant with discussion on how the dataset is collected. | High-quality dataset with detailed discussion on collection, limitations, and suitability. |
+|  | No ML approach is provided or incorrect approach proposed for the problem. | Basic ML approach suggested with weak justification. | Appropriate ML approach is proposed. | Correct ML approach proposed with some discussion on other ML approaches. | Well-justified ML approach with comparison of multiple approaches. |
+|  | No deployment scenario provided or lack of details on deployment. | Limited discussion on deployment. | Some discussion on how the model is to be deployed. | Clear and structured discussion on how the model is deployed in the overall solution. | Detailed and realistic deployment architecture integrated into the solution. |
+|  | Little or no risk and impact assessment done. | Superficial risk and impact assessment. | Some assessment of the risk and impact. | Clear assessment of the impact, risks, and limitations of the AI system. | Comprehensive AI governance: clear discussion of risks, bias, ethical considerations, and mitigation strategies. |
+
 ## Progress Check 
 
 ### Model Development 
