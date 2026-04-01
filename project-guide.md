@@ -176,13 +176,6 @@ Each team should submit one combined Final report. The report should include the
 
 #### Model Development Focus (Individual - 20%)
 
-|   | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <4) | (5 - <8) | (8 - 10)|
-| Data (10%) | <ul><li>No or minimal data analysis provided</li></ul> | <ul><li>Good data analysis provided with some insights</li></ul> | <ul><li>Excellent data analysis with very insighful discussion</li><li>Analysis of potential data bias and mitigation techniques</li></ul> |
-| | (0 - <4) | (5 - <8) | (8 - 10)
-| Modelling (10%) | <ul><li>Little or no explanation of choice of algorithms</li><li>Minimal or no discussion of experimental results | <ul><li>Good explanation of algorithms used</li><li>Good discussion of experimental results</li></ul>  | <ul><li>Excellent discussion of algorithmic choice and the resultant trade-off</li><li>Excellent discussion of the experimental results and the performance tuning done</li></ul> |
-
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
 |  | 0 – <4 marks | 4 – <6 marks | 6 – <7 marks | 7 – <8 marks | 8 – 10 marks |
@@ -191,14 +184,6 @@ Each team should submit one combined Final report. The report should include the
 | **Modelling (10%)** | * Little or no explanation of choice of algorithms.<br>* Minimal or no discussion of experimental results. | * Basic explanation of algorithm choice.<br>* Limited discussion of experimental results. | * Good explanation of algorithms used.<br>* Good discussion of experimental results. | * Strong explanation of algorithm choice with some discussion of trade-offs.<br>* Clear discussion of experimental results and performance. | * Excellent discussion of algorithmic choice and trade-offs.<br>* Excellent discussion of experimental results and performance tuning. |
 
 #### Model Operations & Deployment Focus (Individual - 20%)
-
-|   | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <2.5) | (2.5 - <4) | (4 - 5)
-| MLOps Pipeline (5%) | <ul><li>No or minimal description of the ML pipeline setup </li></ul> | <ul><li>Clear description of the ML pipeline setup, which supports model development and deployment| <ul><li>Very clear description of the ML pipeline setup to support model development and deployment</li>|
-| Demo Application (5%)  | <ul><li>minimal or no description of the application works</li></ul> | <ul><li>Clear description of the application, with explanation of the interfacing with the models</li></ul>  | <ul><li>Very clear description of the application and the features provided, the application architecture including the integration with the models, and description of how it enable continuous training </li></ul> |
-| AI governance checklist  (5%) | <ul><li>No checklist or minimal checklist completed</li><li>Explanation given in checklist is irrelevant or contains errors</li></ul> | <ul><li>Some checklist items completed</li><li>Explanation given in checklist is mostly relevant and correct</li></ul>  | <ul><li>Completed checklist for all required items</li><li>Explanation given in the checklist is relevant and correct.</li></ul> |
-| Test Result (5%) | No test result given or incomplete test result | Complete and relevant test result given | Complete and relevant test result given and good explanation of the test result | 
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
@@ -211,14 +196,14 @@ Each team should submit one combined Final report. The report should include the
 |  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
 | **Test Results (5%)** | * No test results or incomplete results. | * Limited or partially relevant test results. | * Complete and relevant test results provided. | * Good test results with clear explanation and evaluation. | * Comprehensive test results with strong analysis, validation, and interpretation. |
 
-#### Group 
+#### Overall / Group 
 
-| | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <2.5) | (2.5 - <4) | (4 - 5) | 
-| Problem formulation (5%) | Unclear ML formulation | Clear ML formulation, and includes heuristics | Very clear ML formulation, with heuristics, and discussion of metrics used to measure success | 
-| Team work (5%)| Inconsistent report formatting | somewhat consistent report formatting | very consistent report formatting with clear indication of contribution of each members |  
-
+| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
+|--|--|--|--|--|--|
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **Problem Formulation (5%)** | * Unclear or incorrect ML formulation. | * Basic ML formulation with limited clarity.<br>* Minimal use of heuristics. | * Clear ML formulation provided.<br>* Includes some heuristics. | * Well-defined ML formulation with appropriate heuristics.<br>* Some discussion of evaluation metrics. | * Very clear and well-justified ML formulation.<br>* Strong use of heuristics and clear discussion of evaluation metrics to measure success. |
+|  | 0 – <2 marks | 2 – <3 marks | 3 – <3.5 marks | 3.5 – <4 marks | 4 – 5 marks |
+| **Overall Report (5%)** | * Inconsistent or poorly structured report formatting.<br>* No clear contribution from members. | * Somewhat consistent report formatting.<br>* Limited clarity of member contributions. | * Generally consistent report formatting.<br>* Basic indication of member contributions. | * Very consistent report formatting.<br>* Clear indication of contributions of each member. | * Highly consistent and professional report formatting.<br>* Clear, detailed, and well-balanced contribution from each member. |
 
 ## Final Presentation
 
