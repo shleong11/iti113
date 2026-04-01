@@ -96,43 +96,7 @@ Project proposal should include the following information:
 || 0 - <10 marks | 10 - <16 marks | 16 - 20 marks  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 | *Project Proposal* | <ul><li>No or minimal formulation of the problem. </li><li>No reference to dataset is provided or dataset given is not relevant to the problem. </li><li>No ML approach is provided or incorrect approach proposed for the problem</li><li>No deployment scenario provided or lack of details on deployment </li><li>Little or no risk and impact assessment done</li></ul> | <ul><li>Correct problem formulation is provided.</li><li>Dataset provided is somewhat relevant to the problem.</li><li>Appropriate ML approach is proposed</li><li>Some discussion on how the model is to be deployed. </li><li>Some assessment of the risk and impact</ul><br/> | <ul><li>Correct  problem formulation with consideration for alternative formulation such as heuristics.</li><li>Dataset provided is relevant with discussion on how the dataset is collected.</li><li>    Correct ML approach proposed with some discussion on other ML approaches. </li><li>Clear and detailed discussion on how the model is deployed in the overall solution.</li><li>Very clear assessment of the impact and risk of the AI system</ul><br/> |
 
-# 📊 Grading Rubrics  
-## Project Proposal (20%)
 
-| Criteria | Not Competent | Developing | Functional | Competent | Proficient |
-|----------|--------------|------------|------------|-----------|------------|
-| **Marks (out of 20)** | 0 – <10 | 10 – <13 | 13 – <16 | 16 – <18 | 18 – 20 |
-
-| **Project Proposal** | 
-• No or minimal formulation of the problem <br>
-• No dataset identified or irrelevant dataset <br>
-• No ML approach or incorrect approach proposed <br>
-• No deployment scenario or lacks detail <br>
-• Little or no risk and impact assessment | 
-
-• Basic problem formulation but lacks clarity <br>
-• Dataset loosely relevant with minimal explanation <br>
-• Basic ML approach suggested with weak justification <br>
-• Limited discussion on deployment <br>
-• Superficial risk and impact assessment | 
-
-• Clear problem formulation <br>
-• Dataset relevant with some explanation of source <br>
-• Appropriate ML approach proposed <br>
-• Basic deployment scenario described <br>
-• Some assessment of risks and impacts | 
-
-• Well-defined problem with consideration of alternative formulations (e.g. heuristics) <br>
-• Relevant dataset with discussion on data collection and suitability <br>
-• Appropriate ML approach with some comparison to alternatives <br>
-• Clear and structured deployment plan <br>
-• Clear assessment of risks, limitations, and impact | 
-
-• Strong and well-justified problem framing with critical evaluation of alternatives <br>
-• High-quality dataset with detailed discussion on collection, limitations, and suitability <br>
-• Well-justified ML approach with comparison of multiple approaches <br>
-• Detailed and realistic deployment architecture integrated into solution <br>
-• Comprehensive AI governance: risks, bias, ethical considerations, and mitigation strategies clearly articulated |
 
 ## Progress Check 
 
