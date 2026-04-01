@@ -110,16 +110,7 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 ### Grading Rubrics 
 
-#### Model Development (Individual - 20%)
-
-|   | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <7.5) | (7.5 - <12) | (12 - 15)|
-| Data Understanding & Preprocessing  (15%) | <ul><li>Minimal or no exploratory data analysis</li><li>Minimal or no data preparation done</li></ul> | <ul><li>Some exploratory data analysis done with some discussion</li><li>some data preprocessing done</li></ul> | <ul><li>Signifcant amount of exploratory data analysis with insighful discussion</li><li>Significant amount of data preparation</li></ul> |
-| | (0 - < 2.5) | (2.5 - < 4) | (4 - 5)
-| Modelling  (5%)  | <ul><li>Inappropriate choice of algorithms for the chosen problem</li><li>Minimal or no model experimentation is done | <ul><li>appropriate choice of algorithm for the chosen problem</li><li>Some model experimentation is done with reasonable result</li></ul>  | <ul><li>appropriate choice of algorithm with clear justification and consideration of ai governance aspects</li><li>Some early model experimentation results with clear interpretation and good performance exceeding baseline</li></ul> |
-
-# 📊 Grading Rubrics for Model Development (Individual – 20%)
+#### Model Development Focus (Individual - 20%)
 
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
