@@ -132,13 +132,6 @@ You should have setup the MLOps platform that allows the modelling team to perfo
 
 #### Overall / Group (5%)
 
-| | Below Expectation | Approaching Expectation | Meeting Expectation |
-|:----------|:----------|:----------|:----------|
-| | (0 - <4) | (5 - <8) | (8 - 10) | 
-| Team work | Little or no coordination between members in model development process or no coordination between model and mlops members | Some coordination between members in the model development process, or coordination between development operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | Very close coordination within the model development team, or between the model development and operation team in defining the data pipeline, model experimentation tracking and CI/CD pipeline | 
-
-- *Group score for 1-person team will evaluate how well the different parts are integrated and working together.
-
 | Criteria | Not Competent | Developing | Functional | Competent | Proficient |
 |--|--|--|--|--|--|
 |  | 0 – <2.5 Marks | 2.5 – <3 Marks | 3 – <3.5 Marks | 3.5 – <4 Marks| 4 – 5 Marks |
